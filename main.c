@@ -1,4 +1,4 @@
-/* This is the program is a console phone book.*/
+/* This is the program for a console phone book.*/
 
 
 /* It uses the following libraries. */
